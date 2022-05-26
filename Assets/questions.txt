@@ -1,0 +1,2 @@
+{question:"This is question ones question",option1:"wrong",option2:"wrong",option3:"wrong",option4:"right",correct:"4"}
+{question:"the next one",option1:"right",option2:"wrong",option3:"wrong",option4:"wrong",correct:"1"}
